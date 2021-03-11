@@ -1,4 +1,3 @@
-#export API_KEY=pk_983125ff75134e8a81341cb68d8ca84a
 #flask run
 import os
 
